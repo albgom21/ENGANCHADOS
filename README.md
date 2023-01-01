@@ -9,3 +9,5 @@ Proyecto final de la asignatura Juegos Serios basado en la concienciación de la
   David Rodríguez Gómez
 
 ## Vídeo gameplay del juego
+
+https://youtu.be/Tsu9qybGy4A
